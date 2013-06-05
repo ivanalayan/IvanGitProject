@@ -2,7 +2,7 @@
 
 public class Hello {
 
-	public String hello = "Hello world!";
+	public String hello = "Hello into world!";
 	
 	@Override
 	public String toString() {
