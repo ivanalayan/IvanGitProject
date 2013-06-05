@@ -10,6 +10,10 @@ public class Hello {
 		System.out.print("hihihihihihi");
 		System.out.print("Olalalalala");
 		System.out.print("wahahahaha");
+		System.out.print("hehehehehehe");
+		System.out.print("hihihihihihi");
+		System.out.print("Olalalalala");
+		System.out.print("wahahahaha");
 		return hello;
 	}
 
