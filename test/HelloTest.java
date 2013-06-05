@@ -10,7 +10,7 @@ public class HelloTest {
 		
 		Hello hello = new Hello();
 	
-		Assert.assertEquals("Hello world!", hello.toString());
+		Assert.assertEquals("Hello me!", hello.toString());
 	}
 
 }
